@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="testCalStopDraw.cpp" />
     <ClCompile Include="testCanny001.cpp" />
     <ClCompile Include="testCanny002.cpp" />
   </ItemGroup>
